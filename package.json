@@ -1,0 +1,29 @@
+{
+  "name": "dressrun",
+  "version": "0.1.0",
+  "description": "Rehearse any command on a copy-on-write clone of your project and a fake $HOME, review exactly what it changed, then apply or discard.",
+  "type": "module",
+  "bin": { "dressrun": "bin/dressrun.js" },
+  "files": ["bin", "src", "README.md", "LICENSE", "CHANGELOG.md"],
+  "engines": { "node": ">=18.17" },
+  "os": ["darwin", "linux"],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "typecheck": "tsc -p tsconfig.json",
+    "lint": "eslint .",
+    "check": "npm run lint && npm run typecheck && npm test",
+    "demo": "node scripts/render-demo.js"
+  },
+  "keywords": ["cli", "dry-run", "sandbox", "developer-tools", "diff", "preview", "coding-agents", "installer"],
+  "author": "Nithinfgs",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/Nithinfgs/dressrun.git" },
+  "bugs": { "url": "https://github.com/Nithinfgs/dressrun/issues" },
+  "homepage": "https://github.com/Nithinfgs/dressrun#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "@types/node": "^20.0.0",
+    "eslint": "^9.0.0",
+    "typescript": "^5.4.0"
+  }
+}
