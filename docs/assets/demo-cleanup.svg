@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="578" height="396" viewBox="0 0 578 396" role="img" aria-label="dressrun rehearsing a cleanup script that deletes too much">
+  <title>dressrun rehearsing a cleanup script that deletes too much</title>
+  <rect width="578" height="396" rx="10" fill="#0d1117"/>
+  <rect width="578" height="36" rx="10" fill="#161b22"/>
+  <rect y="26" width="578" height="10" fill="#161b22"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14">
+    <text x="28" y="64" xml:space="preserve"><tspan fill="#8b949e">$</tspan><tspan fill="#e6edf3"> dressrun -c "sh ./cleanup.sh"</tspan></text>
+    <text x="28" y="84" xml:space="preserve"></text>
+    <text x="28" y="104" xml:space="preserve"><tspan fill="#e6edf3" font-weight="700">dressrun</tspan><tspan fill="#e6edf3"> </tspan><tspan fill="#79c0ff">sh ./cleanup.sh</tspan></text>
+    <text x="28" y="124" xml:space="preserve"><tspan fill="#8b949e">rehearsal 20261004032917-ddbb · </tspan><tspan fill="#7ee787">exit 0</tspan><tspan fill="#8b949e"> · 16ms</tspan></text>
+    <text x="28" y="144" xml:space="preserve"></text>
+    <text x="28" y="164" xml:space="preserve"><tspan fill="#e6edf3" font-weight="700">PROJECT</tspan><tspan fill="#e6edf3">  </tspan><tspan fill="#8b949e">~/code/acme-cli</tspan></text>
+    <text x="28" y="184" xml:space="preserve"><tspan fill="#e6edf3">  </tspan><tspan fill="#8b949e"> 1 </tspan><tspan fill="#ff7b72">-</tspan><tspan fill="#e6edf3"> build/                   </tspan><tspan fill="#8b949e">5 files, 158 B</tspan></text>
+    <text x="28" y="204" xml:space="preserve"><tspan fill="#e6edf3">  </tspan><tspan fill="#8b949e"> 2 </tspan><tspan fill="#ff7b72">-</tspan><tspan fill="#e6edf3"> src/generated/schema.js  </tspan><tspan fill="#8b949e">-2</tspan></text>
+    <text x="28" y="224" xml:space="preserve"></text>
+    <text x="28" y="244" xml:space="preserve"><tspan fill="#e6edf3" font-weight="700">HOME</tspan><tspan fill="#e6edf3">  </tspan><tspan fill="#8b949e">fake ~ for this run; your real home is untouched</tspan></text>
+    <text x="28" y="264" xml:space="preserve"><tspan fill="#8b949e">  (no changes)</tspan></text>
+    <text x="28" y="284" xml:space="preserve"></text>
+    <text x="28" y="304" xml:space="preserve"><tspan fill="#8b949e">6 project files changed · 0 home files written</tspan></text>
+    <text x="28" y="324" xml:space="preserve"></text>
+    <text x="28" y="344" xml:space="preserve"><tspan fill="#8b949e">[a]pply project · [d]iff · [s]elect · [k]eep · [n] discard</tspan></text>
+    <text x="28" y="364" xml:space="preserve"><tspan fill="#e6edf3">&gt; </tspan></text>
+  </g>
+</svg>
